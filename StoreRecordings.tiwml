@@ -1,5 +1,5 @@
 <Response>
-  <Say>Hello, recodr a message after the cowbell sounds.</Say>
+  <Say>Hello, record a message after the cowbell sounds.</Say>
   <Play>https://api.twilio.com/cowbell.mp3</Play>
   <Record maxLength="20"/>
 </Response>
